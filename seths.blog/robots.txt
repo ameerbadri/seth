@@ -1,0 +1,5 @@
+Sitemap: https://seths.blog/sitemap.xml
+Sitemap: https://seths.blog/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

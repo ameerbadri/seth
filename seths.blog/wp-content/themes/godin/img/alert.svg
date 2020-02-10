@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1309 830 31 32">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #ffb900;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #ffb900;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Symbol_11_4" data-name="Symbol 11 – 4" transform="translate(-3254 -4803)">
+    <g id="Ellipse_24" data-name="Ellipse 24" class="cls-1" transform="translate(1945 5633)">
+      <ellipse class="cls-3" cx="15.5" cy="16" rx="15.5" ry="16"/>
+      <ellipse class="cls-4" cx="15.5" cy="16" rx="14.5" ry="15"/>
+    </g>
+    <path id="Path_130" data-name="Path 130" class="cls-2" d="M3.861,21.271l-.623-7.212L3.083,10.22H7.545l-.156,3.839-.623,7.212Zm1.453,6.641a2.44,2.44,0,0,1-1.868-.778,2.9,2.9,0,0,1,0-3.839,2.44,2.44,0,0,1,1.868-.778,2.44,2.44,0,0,1,1.868.778,2.9,2.9,0,0,1,0,3.839A2.44,2.44,0,0,1,5.314,27.912Z" transform="translate(1955.28 5630)"/>
+  </g>
+</svg>
